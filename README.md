@@ -85,7 +85,7 @@ kata_name/
 ### Compile and run
 
 ```bash
-gcc -Wall -Wextra solution.c test.c -lcriterion -o test && ./test
+gcc -Wall -Wextra -Werror -g solution.c test.c -lcriterion -o test && ./test
 ```
 
 ### Example test.c structure

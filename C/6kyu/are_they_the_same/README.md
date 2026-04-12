@@ -30,3 +30,17 @@ Remarks
    - a or b might be nil or null or None or nothing (except in C++, COBOL, Crystal, D, Dart, Elixir, Fortran, F#, Haskell, Nim, OCaml, Pascal, Perl, PowerShell, Prolog, PureScript, R, Racket, Rust, Shell, Swift).
 
 If a or b are nil (or null or None, depending on the language), the problem doesn't make sense so return false.
+
+```baah
+Time: 759ms Passed: 2Failed: 0
+Test Results:
+comp
+FixedTests
+Test Passed
+Completed in 1.7819ms
+RandomTests
+Test Passed
+Completed in 19.3081ms
+Completed in 21.0901ms
+You have passed all of the tests! :) 
+```
