@@ -9,3 +9,16 @@ If the input string is empty, return an empty string. The words in the input Str
 "4of Fo1r pe6ople g3ood th5e the2"  -->  "Fo1r the2 g3ood 4of th5e pe6ople"
 ""  -->  ""
 ```
+```bash
+Time: 660ms Passed: 2Failed: 0
+Test Results:
+tests_suite
+fixed_tests
+Test Passed
+Completed in 1.1000ms
+random_tests
+Test Passed
+Completed in 13.5226ms
+Completed in 14.6226ms
+You have passed all of the tests! :) 
+```

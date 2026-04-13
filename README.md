@@ -24,7 +24,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 6 kyu | 13             |
+| C        | 6 kyu | 14             |
 | C++      | —    | —               |
 | Python   | —    | —               |
 
@@ -35,6 +35,11 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 ## 🗂️ Solutions
 
 ### C
+
+#### 4 kyu
+| Kata | Solution |
+|------|----------|
+| [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [solution.c](C/4kyu/snail/solution.c) |
 
 #### 5 kyu
 | Kata | Solution |
@@ -56,6 +61,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | [solution.c](C/6kyu/array_diff/solution.c) |
 | [Count Characters](https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d) | [solution.c](C/6kyu/count_characters/solution.c) |
 | [Are_They_The_Same](https://www.codewars.com/kata/550498447451fbbd7600041c) | [solution.c](C/6kyu/are_they_the_same/solution.c) |
+| [Your_Order_Please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [solution.c](C/6kyu/your_order_please/solution.c) |
 
 #### 7 kyu
 | Kata | Solution |
