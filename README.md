@@ -24,7 +24,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 6 kyu | 14             |
+| C        | 6 kyu | 17             |
 | C++      | —    | —               |
 | Python   | —    | —               |
 
