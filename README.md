@@ -24,7 +24,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 5 kyu | 18             |
+| C        | 5 kyu | 19             |
 | C++      | —    | —               |
 | Python   | —    | —               |
 
@@ -48,6 +48,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 | [First Non-Repeating Character](https://www.codewars.com/kata/56a80c2f372c9ea6280000db) | [solution.c](C/5kyu/first_non_repeating/solution.c) |
 | [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062) | [solution.c](C/5kyu/rot13/solution.c) |
 | [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) | [solution.c](C/5kyu/primes_in_numbers/solution.c) |
+| [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015) | [solution.c](C/5kyu/mean_square_error/solution.c) |
 
 #### 6 kyu
 | Kata | Solution |
