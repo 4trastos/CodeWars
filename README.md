@@ -24,7 +24,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 5 kyu | 19             |
+| C        | 5 kyu | 21             |
 | C++      | —    | —               |
 | Python   | —    | —               |
 
@@ -40,6 +40,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 | Kata | Solution |
 |------|----------|
 | [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [solution.c](C/4kyu/snail/solution.c) |
+| [Hamming Numbers](https://www.codewars.com/kata/526d84b98f428f14a60008da) | [solution.c](C/4kyu/hamming_numbers/solution.c) |
 
 #### 5 kyu
 | Kata | Solution |
@@ -49,6 +50,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 | [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062) | [solution.c](C/5kyu/rot13/solution.c) |
 | [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) | [solution.c](C/5kyu/primes_in_numbers/solution.c) |
 | [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015) | [solution.c](C/5kyu/mean_square_error/solution.c) |
+| [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4) | [solution.c](C/5kyu/greed_is_good/solution.c) |
 
 #### 6 kyu
 | Kata | Solution |
