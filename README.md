@@ -24,7 +24,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 5 kyu | 23             |
+| C        | 5 kyu | 25             |
 | C++      | —    | —               |
 | Python   | —    | —               |
 
@@ -42,7 +42,9 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 | [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [solution.c](C/4kyu/snail/solution.c) |
 | [Hamming Numbers](https://www.codewars.com/kata/526d84b98f428f14a60008da) | [solution.c](C/4kyu/hamming_numbers/solution.c) |
 | [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | [solution.c](C/4kyu/pyramid_slide_down/solution.c) |
- [Total up to a power of 10](https://www.codewars.com/kata/55b195a69a6cc409ba000053) | [solution.c](C/4kyu/total_increasing/solution.c) |
+| [Total up to a power of 10](https://www.codewars.com/kata/55b195a69a6cc409ba000053) | [solution.c](C/4kyu/total_increasing/solution.c) |
+| [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014) | [solution.c](C/4kyu/strings_mix/solution.c) |
+| [Square into Squares. Protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891) | [solution.c](C/4kyu/square_into_squares/solution.c) | 
 
 #### 5 kyu
 | Kata | Solution |
