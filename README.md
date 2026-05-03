@@ -24,9 +24,9 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 5 kyu | 25             |
-| C++      | —    | —               |
-| Python   | —    | —               |
+| C        | 5 kyu | 26             |
+| C++      | 7 kyu | 1              |
+| Python   | 8 kyu | 3              |
 
 > Stats updated manually. Check live profile: [codewars.com/users/4trastos](https://www.codewars.com/users/4trastos)
 
@@ -40,11 +40,12 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 | Kata | Solution |
 |------|----------|
 | [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [solution.c](C/4kyu/snail/solution.c) |
-| [Hamming Numbers](https://www.codewars.com/kata/526d84b98f428f14a60008da) | [solution.c](C/4kyu/hamming_numbers/solution.c) |
-| [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | [solution.c](C/4kyu/pyramid_slide_down/solution.c) |
-| [Total up to a power of 10](https://www.codewars.com/kata/55b195a69a6cc409ba000053) | [solution.c](C/4kyu/total_increasing/solution.c) |
-| [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014) | [solution.c](C/4kyu/strings_mix/solution.c) |
-| [Square into Squares. Protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891) | [solution.c](C/4kyu/square_into_squares/solution.c) | 
+| [Hamming Numbers](https://www.codewars.com/kata/526d84b98f428f14a60008da/train/c) | [solution.c](C/4kyu/hamming_numbers/solution.c) |
+| [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037/train/c) | [solution.c](C/4kyu/pyramid_slide_down/solution.c) |
+| [Total up to a power of 10](https://www.codewars.com/kata/55b195a69a6cc409ba000053/train/c) | [solution.c](C/4kyu/total_increasing/solution.c) |
+| [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014/train/c) | [solution.c](C/4kyu/strings_mix/solution.c) |
+| [Square into Squares. Protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891/train/c) | [solution.c](C/4kyu/square_into_squares/solution.c) |
+| [Large Factorials](https://www.codewars.com/kata/557f6437bf8dcdd135000010/train/c) | [solution.c](C/4kyu/large_factorials/solution.c) | 
 
 #### 5 kyu
 | Kata | Solution |
@@ -77,6 +78,19 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 |------|----------|
 | [Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139) | [solution.c](C/7kyu/binary_addition/solution.c) |
 | [Make the Deadfish Swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9) | [solution.c](C/7kyu/deadfish/solution.c) |
+
+### C++
+
+#### 7 kyu
+
+### Python
+
+#### 8 kyu
+| Kata | Solution |
+|------|----------|
+| [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/python) | [solution.c](Python/8kyu/PlayingBanjo/solution.c) |
+| [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/python) | [solution.c](Python/8kyu/ConvertaBoolean/solution.c) |
+| [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/python) | [solution.c](Python/8kyu/MakeUpperCase/solution.c) |
 
 ---
 
