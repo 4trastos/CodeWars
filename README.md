@@ -45,7 +45,8 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 | [Total up to a power of 10](https://www.codewars.com/kata/55b195a69a6cc409ba000053/train/c) | [solution.c](C/4kyu/total_increasing/solution.c) |
 | [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014/train/c) | [solution.c](C/4kyu/strings_mix/solution.c) |
 | [Square into Squares. Protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891/train/c) | [solution.c](C/4kyu/square_into_squares/solution.c) |
-| [Large Factorials](https://www.codewars.com/kata/557f6437bf8dcdd135000010/train/c) | [solution.c](C/4kyu/large_factorials/solution.c) | 
+| [Large Factorials](https://www.codewars.com/kata/557f6437bf8dcdd135000010/train/c) | [solution.c](C/4kyu/large_factorials/solution.c) |
+| [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d/train/c) | [solution.c](C/4kyu/the_observed_pin/solution.c) | 
 
 #### 5 kyu
 | Kata | Solution |
