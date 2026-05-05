@@ -24,7 +24,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 5 kyu | 26             |
+| C        | 4 kyu | 28             |
 | C++      | 7 kyu | 1              |
 | Python   | 8 kyu | 3              |
 
@@ -36,6 +36,11 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 
 ### C
 
+#### 3 kyu
+| Kata | Solution |
+|------|----------|
+| [Prime Streaming (PG-13)](https://www.codewars.com/kata/5519a584a73e70fa570005f5) | [solution.c](C/3kyu/prime_streaming_pg13/solution.c) |
+
 #### 4 kyu
 | Kata | Solution |
 |------|----------|
@@ -46,7 +51,8 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 | [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014/train/c) | [solution.c](C/4kyu/strings_mix/solution.c) |
 | [Square into Squares. Protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891/train/c) | [solution.c](C/4kyu/square_into_squares/solution.c) |
 | [Large Factorials](https://www.codewars.com/kata/557f6437bf8dcdd135000010/train/c) | [solution.c](C/4kyu/large_factorials/solution.c) |
-| [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d/train/c) | [solution.c](C/4kyu/the_observed_pin/solution.c) | 
+| [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d/train/c) | [solution.c](C/4kyu/the_observed_pin/solution.c) |
+| [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/train/c) | [solution.c](C/4kyu/sum_of_intervals/solution.c) |
 
 #### 5 kyu
 | Kata | Solution |
