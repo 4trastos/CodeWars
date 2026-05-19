@@ -24,7 +24,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 
 | Language | Rank | Katas Completed |
 |----------|------|-----------------|
-| C        | 4 kyu | 28             |
+| C        | 4 kyu | 29             |
 | C++      | 7 kyu | 1              |
 | Python   | 8 kyu | 3              |
 
@@ -40,6 +40,7 @@ All solutions are written from scratch — no AI-generated code. Every kata is d
 | Kata | Solution |
 |------|----------|
 | [Prime Streaming (PG-13)](https://www.codewars.com/kata/5519a584a73e70fa570005f5) | [solution.c](C/3kyu/prime_streaming_pg13/solution.c) |
+| Last digit of a huge number ](https://www.codewars.com/kata/5518a860a73e708c0a000027) | [solution.c](C/3kyu/last_digit_of_a_huge_number/solution.c) |
 
 #### 4 kyu
 | Kata | Solution |
